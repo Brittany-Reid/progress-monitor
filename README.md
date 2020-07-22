@@ -7,7 +7,7 @@ Still in progress! The API is not stable, please specify a specific version in y
 ## Installation
 
 ```sh
-npm install x
+npm install progress-monitor
 ```
 
 ## Usage
