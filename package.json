@@ -1,0 +1,24 @@
+{
+  "name": "progress-monitor",
+  "version": "1.0.0",
+  "description": "Splittable progress monitor for node.js, inspired by Eclipse IProgressMonitor and SubMonitor.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brittany-Reid/progress-monitor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brittany-Reid/progress-monitor/issues"
+  },
+  "homepage": "https://github.com/Brittany-Reid/progress-monitor#readme"
+}
